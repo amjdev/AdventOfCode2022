@@ -1,0 +1,2 @@
+Mi solución a los problemas de Advent of Code edición 2022
+https://adventofcode.com/2022
