@@ -3,9 +3,9 @@
 """
  * ========================================================================
  *
- *       Filename:
+ *       Filename: problem2.py
  *
- *    Description:
+ *    Description: Calories, part 2
  *
  *        Version:  1.0
  *        Created:  01/04/20 18:28:09

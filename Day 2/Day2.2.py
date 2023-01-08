@@ -3,9 +3,9 @@
 """
  * ========================================================================
  *
- *       Filename:
+ *       Filename: Day2.2.py
  *
- *    Description:
+ *    Description: Paper, Scissors, Rock part 2
  *
  *        Version:  1.0
  *        Created:  01/04/20 18:28:09
